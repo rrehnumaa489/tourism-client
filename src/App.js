@@ -33,7 +33,7 @@ function App() {
             <Route path="/manageService">
               <ManageServices></ManageServices>
             </Route>
-            <Route path="/updateUser">
+            <Route path="/services/update/:id">
               <UpdateUser></UpdateUser>
             </Route>
             <Route path="*">
