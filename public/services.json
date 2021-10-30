@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Munnar",
+        "price": "18000",
+        "description": "A coffer of coffee, cardamom and tea plantations, which envelope the land with lush emerald greenery and fill the air with a heady aroma, Wayanad, in Kerala, is one of the most beautiful regions of the state.",
+        "img": "https://i.ibb.co/mhqRSwD/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shillong",
+        "price": "20000",
+        "description": "A coffer of coffee, cardamom and tea plantations, which envelope the land with lush emerald greenery and fill the air with a heady aroma, Wayanad, in Kerala, is one of the most beautiful regions of the state.",
+        "img": "https://i.ibb.co/f9gZW4F/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Wayanad",
+        "price": "15000",
+        "description": "A coffer of coffee, cardamom and tea plantations, which envelope the land with lush emerald greenery and fill the air with a heady aroma, Wayanad, in Kerala, is one of the most beautiful regions of the state.",
+        "img": "https://i.ibb.co/16hptXX/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Thrissur",
+        "price": "18000",
+        "description": "A coffer of coffee, cardamom and tea plantations, which envelope the land with lush emerald greenery and fill the air with a heady aroma, Wayanad, in Kerala, is one of the most beautiful regions of the state.",
+        "img": "https://i.ibb.co/x3yd1Zp/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Gokarna",
+        "price": "21000",
+        "description": "A coffer of coffee, cardamom and tea plantations, which envelope the land with lush emerald greenery and fill the air with a heady aroma, Wayanad, in Kerala, is one of the most beautiful regions of the state.",
+        "img": "https://i.ibb.co/ChHNjbW/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kochi",
+        "price": "30000",
+        "description": "A coffer of coffee, cardamom and tea plantations, which envelope the land with lush emerald greenery and fill the air with a heady aroma, Wayanad, in Kerala, is one of the most beautiful regions of the state.",
+        "img": "https://i.ibb.co/Gc1TqmC/6.jpg"
+    }
+]

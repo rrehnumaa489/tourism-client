@@ -1,0 +1,11 @@
+.footer-container {
+    background-color: #191919;
+    padding: 50px;
+    color: rgb(216, 209, 209);
+  }
+.footer-item {
+    list-style: none;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
