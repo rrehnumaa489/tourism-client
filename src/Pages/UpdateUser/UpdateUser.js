@@ -10,7 +10,7 @@ const UpdateUser = () => {
     const {id} = useParams();
 
     useEffect(() => {
-        const url = `http://localhost:5000/services/${id}`
+        const url = `https://afternoon-gorge-61674.herokuapp.com/services/${id}`
         fetch(url)
         .then(res => res.json())
         .then(data => setService(data))
@@ -40,7 +40,7 @@ const UpdateUser = () => {
     }
 
     const handleUpdateUser = e => {
-        const url = `http://localhost:5000/services/${id}`
+        const url = `https://afternoon-gorge-61674.herokuapp.com/services/${id}`
         fetch(url, {
             method: 'PUT',
             headers: {
